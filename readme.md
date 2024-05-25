@@ -31,15 +31,10 @@ Press the below button to Fast deploy on Heroku/Raiwlay
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### 💜 Heroku
 
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
-<p>
-<br>
 <a href="https://heroku.com/deploy?template=https://github.com/harshil8981/File-To-Stream">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-  </a>
-  </p>
-  </details>
-<br>
+</a>
+
 
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
